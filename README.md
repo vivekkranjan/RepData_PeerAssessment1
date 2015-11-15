@@ -1,4 +1,3 @@
-My [Coursera-Reproducible-Research](https://github.com/Xiaodan/Coursera-Reproducible-Research) Repo  
 
 ## Introduction
 
